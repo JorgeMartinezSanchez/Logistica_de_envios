@@ -8,8 +8,7 @@
 - Nicolas Emanuel Oly Sánchez
 - Jorge Martínez Sánchez
 
-### Docente de Materia:
-Richard Lopez
+**Docente de Materia:** Richard Lopez
 
 **Propósito❓:** Administrar órdenes de envío y su trazabilidad por departamento/municipio 📬.
 
